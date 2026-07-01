@@ -12,14 +12,14 @@ Gravador PWA simples, offline, com visual escuro igual ao app nativo do Android.
 - Funciona 100% offline (salva no navegador)
 
 ## Como usar
-1. Abra o index.html
+1. Abra o aplicativo 
 2. Toque no botão vermelho para gravar
 3. Toque no quadrado para parar
 4. Adicione um nome > Salvar
 5. A gravação aparece na lista
 
 ## Instalar como app
-1. Publique no GitHub Pages
+1. Publique suas gravações 
 2. No Chrome > ⋮ > Instalar aplicativo
 3. Permita o microfone na primeira vez
 
